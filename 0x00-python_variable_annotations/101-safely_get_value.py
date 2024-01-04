@@ -1,7 +1,7 @@
 #!/usr/bin/env python3
 """Define function to safely get value"""
 
-from Typing import TypeVar, Mapping, Any, Union
+from typing import TypeVar, Mapping, Any, Union
 
 
 T = TypeVar('T')
