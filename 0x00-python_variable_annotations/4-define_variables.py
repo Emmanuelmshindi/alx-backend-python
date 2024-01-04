@@ -1,4 +1,5 @@
 #!/usr/bin/env python3
+"""Annotate variables with specified values"""
 
 a: int = 1
 pi: float = 3.14
